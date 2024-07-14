@@ -30,7 +30,8 @@
         {
           "type": "git",
           "url": "https://github.com/lite-xl/lite-xl.git",
-          "branch": "v2.1.5"
+          "tag": "v2.1.5",
+          "commit": "af9c8344cf4cc0e6eb21a49dc1e9b8424a5501ac"
         },
         {
           "type": "git",
@@ -72,9 +73,9 @@
       "sources": [
         {
           "type": "git",
-          "path": "/home/giulio/Scaricati/lite-xl-plugin-manager",
           "url": "https://github.com/lite-xl/lite-xl-plugin-manager.git",
-          "branch": "master"
+          "tag": "v1.2.9",
+          "commit": "50d6d9fafefe6251b1c40bdf270dfbf5a689eae8"
         }
       ]
     },
