@@ -32,7 +32,7 @@
         {
           "type": "git",
           "url": "https://github.com/lite-xl/lite-xl.git",
-          "branch": "master"
+          "branch": "v2.1.5"
         },
         {
           "type": "git",
