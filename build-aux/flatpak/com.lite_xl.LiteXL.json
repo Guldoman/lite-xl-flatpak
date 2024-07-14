@@ -49,9 +49,9 @@
         {
           "type": "file",
           "dest": "subprojects",
-          "url": "https://wrapdb.mesonbuild.com/v2/lua_5.4.6-3/get_patch",
-          "dest-filename": "lua_5.4.6-3_patch.zip",
-          "sha256": "9b72a95422fd47f79f969d9abdb589ee95712d5512a5246f94e7e4f63d2cb7b7"
+          "url": "https://wrapdb.mesonbuild.com/v2/lua_5.4.6-4/get_patch",
+          "dest-filename": "lua_5.4.6-4_patch.zip",
+          "sha256": "b5a8c9b3673fbe58afaf842041bc9551f1f742c363fd3be8d47db2e6a483b54c"
         },
         {
           "type": "shell",
