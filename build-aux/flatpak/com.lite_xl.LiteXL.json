@@ -39,16 +39,16 @@
         },
         {
           "type": "archive",
-          "dest": "subprojects/lua-5.4.6",
-          "url": "https://www.lua.org/ftp/lua-5.4.6.tar.gz",
-          "sha256": "7d5ea1b9cb6aa0b59ca3dde1c6adcb57ef83a1ba8e5432c0ecd06bf439b3ad88"
+          "dest": "subprojects/lua-5.4.4",
+          "url": "https://www.lua.org/ftp/lua-5.4.4.tar.gz",
+          "sha256": "164c7849653b80ae67bec4b7473b884bf5cc8d2dca05653475ec2ed27b9ebf61"
         },
         {
           "type": "file",
           "dest": "subprojects",
-          "url": "https://wrapdb.mesonbuild.com/v2/lua_5.4.6-4/get_patch",
-          "dest-filename": "lua_5.4.6-4_patch.zip",
-          "sha256": "b5a8c9b3673fbe58afaf842041bc9551f1f742c363fd3be8d47db2e6a483b54c"
+          "url": "https://wrapdb.mesonbuild.com/v2/lua_5.4.4-1/get_patch",
+          "dest-filename": "lua_5.4.4-1_patch.zip",
+          "sha256": "e61cd965c629d6543176f41a9f1cb9050edfd1566cf00ce768ff211086e40bdc"
         },
         {
           "type": "shell",
