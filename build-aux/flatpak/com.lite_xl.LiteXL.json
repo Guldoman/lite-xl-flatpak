@@ -20,9 +20,6 @@
   "modules": [
     {
       "name": "lite-xl",
-      "config-opts": [
-        "--force-fallback-for=lua"
-      ],
       "buildsystem": "meson",
       "post-install": [
         "install -Dm 644 ../LICENSE -t $FLATPAK_DEST/share/licenses/$FLATPAK_ID",
