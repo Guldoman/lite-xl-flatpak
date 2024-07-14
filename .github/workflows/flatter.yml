@@ -52,6 +52,8 @@ jobs:
         with:
           files: |
             build-aux/flatpak/com.lite_xl.LiteXL.json
+            build-aux/flatpak/com.lite_xl.LiteXL_nightly.json
+            build-aux/flatpak/com.lite_xl.LiteXL_libatures.json
           arch: ${{ matrix.arch }}
           gpg-sign: ${{ steps.gpg.outputs.fingerprint }}
           # upload-bundles: true
